@@ -5,8 +5,8 @@
 **LANGUAGES AND TECHNOLOGIES**
 
 ```
-● Proficient : C++, C, Java, Matlab, Splunk, jQuery, C#, Python, SQL, Git, React, HTML, CSS, JavaScript
-● Exposure :MongoDB, Spring, Heroku, Meteor, Flask, Hadoop
+● Proficient : C++, C, Java, Matlab, Splunk, jQuery, C#, Python, SQL, Git, HTML, CSS, JavaScript
+● Exposure :MongoDB, Spring, Heroku, Meteor, Flask, Hadoop, REACT, ANGULAR
 ```
 ## WORK EXPERIENCE
 
